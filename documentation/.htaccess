@@ -1,0 +1,11 @@
+<Files ~ "^\.(htaccess)$">
+deny from all
+</Files>
+
+RewriteEngine On
+
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+
+RewriteRule ^english(.*)$ lang.php?lang=en
+RewriteRule ^brazilian(.*)$ lang.php?lang=br
