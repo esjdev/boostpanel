@@ -148,10 +148,9 @@ class Config_model extends MY_Model
 					[
 						'field' => 'smtp_username',
 						'label' => lang("smtp_username"),
-						'rules' => 'required|alpha_dash',
+						'rules' => 'required',
 						'errors' => [
 							'required' => lang("error_empty_field"),
-							'alpha_dash' => lang("error_invalid_characters"),
 						],
 					],
 					[
