@@ -22,10 +22,9 @@ class News_model extends MY_Model
 					[
 						'field' => 'title_news',
 						'label' => lang("title"),
-						'rules' => 'required|alpha_numeric_punct',
+						'rules' => 'required',
 						'errors' => [
 							'required' => lang("error_empty_field"),
-							'alpha_numeric_punct' => lang("error_invalid_characters"),
 						],
 					],
 					[
@@ -44,10 +43,9 @@ class News_model extends MY_Model
 					[
 						'field' => 'edit_title_news',
 						'label' => lang("title"),
-						'rules' => 'required|alpha_numeric_punct',
+						'rules' => 'required',
 						'errors' => [
 							'required' => lang("error_empty_field"),
-							'alpha_numeric_punct' => lang("error_invalid_characters"),
 						],
 					],
 					[
