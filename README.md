@@ -4,11 +4,6 @@
 
 ## BoostPanel is an online social media marketing tool (web application) that allows and helps you to sell your Social Media Marketing Services with an easy to use panel. You can provide quality and cheap SMM Services to your customers, they can buy all packages or services like Facebook likes, Instagram followers, Twitter followers, Youtube Viewers, SEO and many more. You can create as many as services & packages according to your expertise, this is a completely dynamic panel. Whether it is something you need for your social media accounts or you are a SMM services reseller, you will find it all here.
 
-<div align="center">
-
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/esjdev/boostpanel)<space>
-
-</div>
 
 ## Overview
 
