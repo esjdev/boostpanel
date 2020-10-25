@@ -35,7 +35,7 @@ Carregue o arquivo zip instalado na sua hospedagem na web. E depois extraia o ar
 Abra seu navegador e vá para a página de instalação <code>www.seudominio.com</code><br><br>
 
 <b>Etapa 3</b> - Preencha todas as informações solicitadas.<br>
-Após o redirecionamento para a página de instalação, você deve preencher o formulário com todas as informações solicitadas (código de compra, nome do banco de dados, detalhes da conta do administrador... etc)<br><br>
+Após o redirecionamento para a página de instalação, você deve preencher o formulário com todas as informações solicitadas (nome do banco de dados, detalhes da conta do administrador... etc)<br><br>
 
 <b>Etapa 4</b> - Concluir a instalação<br>
 Após preencher todas as informações solicitadas na etapa 3. Você verá a mensagem com sucesso após alguns segundos, se tudo der certo.<br><br>
