@@ -35,7 +35,7 @@ Upload or zip file installed on your web hosting. And then extract the zip file<
 Open your browser and go to installation page <code>www.yourdomain.com</code><br><br>
 
 <b>Step 3</b> - Fill out all the requested informations.<br>
-After redirecting to installation page, you have to fill the form with all the requested informations (purchase code, database name, admin account details...etc)<br><br>
+After redirecting to installation page, you have to fill the form with all the requested informations (database name, admin account details...etc)<br><br>
 
 <b>Step 4</b> - Finish Installation<br>
 After filling in all the information requested in step 3. You will see a message successfully after a few seconds, if all goes well.<br><br>
