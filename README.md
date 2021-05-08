@@ -1,3 +1,5 @@
+## Everyone please read. [About BoostPanel](https://github.com/esjdev/boostpanel/issues/13)
+
 <p align="center">
   <img src="https://github.com/esjdev/boostpanel/blob/master/public/themes/default/images/logo.png" alt="BoostPanel" />
 </p>
